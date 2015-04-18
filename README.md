@@ -9,6 +9,7 @@ Goals:
 Image upload to (Amazon service)
 Nested comments
 Research
+Github Pages
 
 ## Another Heading
 
